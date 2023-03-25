@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Suman Chandra Barman</h1>
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h1>Hi 👋, I'm Suman Chandra Barman</h1>
+<h3>A passionate frontend web developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
