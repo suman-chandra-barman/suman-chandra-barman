@@ -1,5 +1,5 @@
 
-<h1>Hi 👋, I'm Suman Chandra Barman</h1>
+<h1>Hi, I'm Suman Chandra Barman</h1>
 <h3>A passionate frontend web developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
