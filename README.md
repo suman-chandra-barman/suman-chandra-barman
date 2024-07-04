@@ -1,10 +1,11 @@
 ![Banner](https://github.com/suman-chandra-barman/suman-chandra-barman/blob/main/full-stack-developer-linkedin-banner.jpg)
 
 <h1>Hi, I'm Suman Chandra Barman</h1>
-<h3>A full stack web developer from Bangladesh</h3>
+<h4> A full-stack web developer from Bangladesh who likes to work with JavaScript/Typescript, React.js, Redux, Next.js, Node, Express, MongoDB, Mongoose, SQL, Prisma, and others.</h4>
 
-- 🌱 I’m currently learning **MERN Stack**
-
+- 🌱 Exploring - Advanced frontend frameworks and backend technologies for scalable web applications.
+- 👯 Looking to collaborate on: Open-source projects related to web development.
+- 🤔 Trying to help: Foster learning and growth in web development communities.
 - 📫 How to reach me **sumanchandrabarman999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -12,6 +13,14 @@
 <a href="https://linkedin.com/in/suman-chandra-barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-chandra-barman" height="30" width="40" /></a>
 </p>
 
+  <!--Current Stats -->
+## :chart_with_upwards_trend: Current Stats
+  <a href="https://streak-stats.demolab.com/?user=suman-chandra-barman" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <img src="https://streak-stats.demolab.com/?user=suman-chandra-barman" alt="GitHub Streak" />
+  </a>
+  
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/suman-chandra-barman/suman-chandra-barman)
+  
   <!--Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -82,3 +91,5 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-chandra-barman&show_icons=true&locale=en&layout=compact" alt="suman-chandra-barman" />
 </p>
+
+
