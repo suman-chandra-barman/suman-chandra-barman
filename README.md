@@ -1,4 +1,4 @@
-![Banner](https://github.com/suman-chandra-barman/suman-chandra-barman/blob/main/full-stack-developer-linkedin-banner.jpg)
+![GitHub Banner](https://github.com/suman-chandra-barman/suman-chandra-barman/blob/main/suman-chandra-barman-frontend-fullstack-developer-banner.jpg)
 
 # 👋 Hi, I'm Suman Chandra Barman
 
