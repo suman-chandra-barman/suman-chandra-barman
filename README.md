@@ -62,8 +62,14 @@ I enjoy building scalable, user-friendly web applications and collaborating with
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=suman-chandra-barman" height="180" />
+  <img 
+    src="https://streak-stats.demolab.com?user=suman-chandra-barman" 
+    height="160"
+  />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-chandra-barman&layout=compact&show_icons=true&locale=en" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-chandra-barman&layout=compact&show_icons=true&locale=en" 
+    height="160"
+  />
 </p>
 
