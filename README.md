@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/suman-chandra-barman/suman-chandra-barman/blob/main/suman-chandra-barman-frontend-fullstack-developer-banner.jpg)
+![GitHub Banner](https://github.com/suman-chandra-barman/suman-chandra-barman/blob/main/suman-chandra-barman-front-end-developer-banner.png)
 
 ## 💼 About Me
 
