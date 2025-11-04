@@ -22,9 +22,9 @@ I also have hands-on experience with Node.js and Express.js, giving me a solid u
 
 ## 📊 GitHub Stats
 
-| Top Languages | GitHub Streak | GitHub Stats |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suman-chandra-barman&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Streak](https://streak-stats.demolab.com?user=suman-chandra-barman&theme=transparent&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suman-chandra-barman&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) |
+| Top Languages | GitHub Streak |
+|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suman-chandra-barman&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Streak](https://streak-stats.demolab.com?user=suman-chandra-barman&theme=transparent&hide_border=true) |
 
 ---
 
