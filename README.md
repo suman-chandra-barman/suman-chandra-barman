@@ -28,6 +28,16 @@ I also have hands-on experience with Node.js and Express.js, giving me a solid u
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-chandra-barman&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true"/>
+  </a>
+</div>
+
+---
+
 ## 🤝 Contact
 
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/suman-chandra-barman/).  
