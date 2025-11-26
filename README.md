@@ -18,6 +18,7 @@ I also have hands-on experience with Node.js and Express.js, giving me a solid u
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)                                                          |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-333333?style=flat&logo=google-chrome) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)|
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -32,7 +33,7 @@ I also have hands-on experience with Node.js and Express.js, giving me a solid u
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-chandra-barman&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-chandra-barman&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true&custom_title=Suman%27s%20GitHub%20Activity%20Graph" />
   </a>
 </div>
 
