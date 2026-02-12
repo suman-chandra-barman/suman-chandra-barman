@@ -2,7 +2,7 @@
 
 ## 💼 About Me
 
-Hi, I'm Suman Chandra Barman, a dedicated Frontend Developer with 1 year of experience creating modern, responsive, and high-performance web applications. I specialize in React.js, Next.js, and TypeScript, focusing on clean code, usability, and performance.
+Hi, I’m Suman Chandra Barman, a passionate Frontend Developer with 1+ years of professional experience building modern, scalable, and high-performance web applications.
 
 I also have hands-on experience with Node.js and Express.js, giving me a solid understanding of full-stack development. I’m passionate about continuous learning and love bringing ideas to life through efficient and elegant web solutions.
 
