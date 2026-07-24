@@ -1,3 +1,5 @@
+![GitHub Banner](https://raw.githubusercontent.com/suman-chandra-barman/suman-chandra-barman/main/suman-chandra-barman-front-end-developer-banner.png)
+
 # Hello, I'm Suman Chandra Barman
 ### Frontend Developer | Next.js & React Specialist
 Driven Frontend Engineer with a proven track record of architecting complex, role-based dashboard systems and scalable web applications using Next.js and TypeScript. I specialize in implementing modular component architectures and optimizing state management through RTK Query to deliver seamless, high-performance user experiences.
@@ -22,7 +24,7 @@ I am a performance-focused Frontend Developer currently working at **Join Ventur
 
 ---
 
-## Technical Expertise
+## 🛠 Technical Expertise
 
 | Skills Overview | Technologies |
 |-----------------|--------------|
