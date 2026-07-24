@@ -1,30 +1,28 @@
-![GitHub Banner](https://raw.githubusercontent.com/suman-chandra-barman/suman-chandra-barman/main/suman-chandra-barman-front-end-developer-banner.png)
-
 # Hello, I'm Suman Chandra Barman
 ### Frontend Developer | Next.js & React Specialist
 Driven Frontend Engineer with a proven track record of architecting complex, role-based dashboard systems and scalable web applications using Next.js and TypeScript. I specialize in implementing modular component architectures and optimizing state management through RTK Query to deliver seamless, high-performance user experiences.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a performance-focused Frontend Developer currently working at **Join Venture AI (JVAI)**. I specialize in building complex role-based dashboard systems and high-scale web applications.
 
-- 🏢 **Current Role:** Junior Frontend Developer at **Join Venture AI**.
-- 🛠️ **Core Expertise:** Next.js (App Router), TypeScript, RTK Query, and Scalable UI Systems.
-- ⚡ **Focus:** Performance optimization, reusable component architecture, and long-term maintainability.
-- 🏆 **Achievements:** **Top Performer of Quarter Q3 (Jan - Mar 2026)** and **Operations Hero of the Month (Jan 2026)**.
+- **Current Role:** Junior Frontend Developer at **Join Venture AI**.
+- **Core Expertise:** Next.js (App Router), TypeScript, RTK Query, and Scalable UI Systems.
+- **Focus:** Performance optimization, reusable component architecture, and long-term maintainability.
+- **Achievements:** **Top Performer of Quarter Q3 (Jan - Mar 2026)** and **Operations Hero of the Month (Jan 2026)**.
 
 ---
 
-## 🏆 Professional Achievements
+## Professional Achievements
 
 - **Top Performer of Quarter Q3 (Jan - Mar 2026):** Recognized for excellence in technical delivery at Join Venture AI.
 - **Operations Hero of the Month (Jan 2026):** Awarded for delivering performance-optimized solutions and improving system stability.
 
 ---
 
-## 🛠 Technical Expertise
+## Technical Expertise
 
 | Skills Overview | Technologies |
 |-----------------|--------------|
@@ -35,21 +33,21 @@ I am a performance-focused Frontend Developer currently working at **Join Ventur
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🏗️ [INeed - Service Marketplace](https://github.com/suman-chandra-barman)
+### [INeed - Service Marketplace](https://github.com/suman-chandra-barman)
 A production-grade marketplace for service discovery and real-time chat.
 - **Key Features:** Multi-step bookings, specialized dashboards, and RTK Query with tag-based caching.
 - **Stack:** Next.js, TypeScript, Redux Toolkit, WebSockets, shadcn/ui.
 
-### ⚽ [Job Soccer - Football Hiring Marketplace](https://github.com/suman-chandra-barman)
+### [Job Soccer - Football Hiring Marketplace](https://github.com/suman-chandra-barman)
 A specialized hiring platform for the football industry.
 - **Key Features:** Route groups, Socket.IO, Zod validation, and cookie-based middleware guards.
 - **Stack:** Next.js (App Router), TypeScript, RTK Query, Socket.IO, Zod.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 | Top Languages | Activity Graph |
 |:---:|:---:|
@@ -57,7 +55,7 @@ A specialized hiring platform for the football industry.
 
 ---
 
-## 📈 Development Activity
+## Development Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-chandra-barman&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true" />
@@ -65,9 +63,9 @@ A specialized hiring platform for the football industry.
 
 ---
 
-## 📬 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
-**🌐 Portfolio:** [Portfolio](https://suman-chandra-barman.vercel.app/) <br/>
-**🔗 LinkedIn:** [linkedin.com/in/suman-chandra-barman](https://www.linkedin.com/in/suman-chandra-barman) <br/>
-**📧 Email:** [sumanchandrabarman999@gmail.com](mailto:sumanchandrabarman999@gmail.com) <br/>
-**📱 WhatsApp:** [+8801765227054](https://wa.me/8801765227054)
+**Portfolio:** [Portfolio](https://suman-chandra-barman.vercel.app/) <br/>
+**LinkedIn:** [linkedin.com/in/suman-chandra-barman](https://www.linkedin.com/in/suman-chandra-barman) <br/>
+**Email:** [sumanchandrabarman999@gmail.com](mailto:sumanchandrabarman999@gmail.com) <br/>
+**WhatsApp:** [+8801765227054](https://wa.me/8801765227054)
