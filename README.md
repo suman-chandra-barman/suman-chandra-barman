@@ -67,7 +67,7 @@ A specialized hiring platform for the football industry.
 
 ## Let's Connect & Collaborate
 
-**Portfolio:** [Portfolio](https://suman-chandra-barman.vercel.app/) <br/>
+**Portfolio:** [suman-chandra-barman.vercel.app](https://suman-chandra-barman.vercel.app/) <br/>
 **LinkedIn:** [linkedin.com/in/suman-chandra-barman](https://www.linkedin.com/in/suman-chandra-barman) <br/>
 **Email:** [sumanbarman.dev@gmail.com](mailto:sumanbarman.dev@gmail.com) <br/>
 **WhatsApp:** [+8801765227054](https://wa.me/8801765227054)
