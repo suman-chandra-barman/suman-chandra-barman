@@ -1,4 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/suman-chandra-barman/suman-chandra-barman/main/suman-chandra-barman-front-end-developer-banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/suman-chandra-barman/suman-chandra-barman/main/LinkedIn-Banner-Suman-Chandra-Barman-Frontend-Developer.png)
 
 # Hello, I'm Suman Chandra Barman
 ### Frontend Developer | Next.js & React Specialist
